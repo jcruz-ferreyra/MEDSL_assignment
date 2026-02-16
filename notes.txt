@@ -1,0 +1,3 @@
+Problem 1: leading commas
+Problem 2: utf reading of latin accent character
+Problem 3: negative values in the number of votes: Found 1 row with negative votes (-8) in Prairie County, Ridgewood-3 precinct. Likely data entry error. Corrected by setting to 0.

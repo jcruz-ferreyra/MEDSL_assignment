@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Notebooks
+notebooks/eda.ipynb
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files (adjust based on your structure)
+output/
+figures/
+*.png
+*.jpg
+
+# Data (if large, comment out if you need to include sample data)
+# data/
+# *.csv
